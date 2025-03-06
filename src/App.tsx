@@ -8,8 +8,8 @@ function App() {
   return (
 <Router>
       <div className="container">
-        <nav>
-          <ul>
+        <nav className='nav'>
+          <ul className='nav-list'>
             <li><Link to="/" data-testid="home-link">Home</Link></li>
             <li><Link to="/codejawn" data-testid="code-jawn-link">Code Jawn</Link></li>
             <li><Link to="/battlejawn" data-testid="battle-jawn-link">Battle Jawn</Link></li>
