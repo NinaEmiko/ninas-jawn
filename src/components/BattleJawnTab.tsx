@@ -12,7 +12,7 @@ const BattleJawnTab: React.FC = () => {
                 Github Repo
             </a>
          <p data-testid="battle-jawn-text1">
-            Battle Jawn is a turn based fighting game with a React front-end and a SpringBoot backend, deployed through Railway.
+            Battle Jawn is a turn-based fighting game with a React frontend and a SpringBoot backend, deployed through Railway.
             Version 1 was created with vanilla JavaScript while I was first learning to code.
             Version 2 was created using React and SpringBoot.
         </p>
